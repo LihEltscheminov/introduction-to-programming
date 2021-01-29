@@ -1,1 +1,1 @@
-# introduction-to-programming
+# Alice's introduction to programming course
