@@ -1,1 +1,1 @@
-# Those are the activities i have developed during my introductory programming studies.
+# Those are the activities I have developed during my introductory programming studies.
