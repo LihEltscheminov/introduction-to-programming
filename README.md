@@ -1,1 +1,1 @@
-# Alice's introduction to programming course
+# Those are the activities i have developed during my introductory programming studies.
