@@ -1,8 +1,42 @@
 body {
-    background-color: whitesmoke;
+    background-color: white;
+    text-align: justify;
+    font: Consolas, "Courier New", Courier, monospace; 
+    margin: 0.5em;
+    padding:0.5em;
+    display:flex;
+    flex-wrap: wrap;
   }
 
-h1, h2 {
-  color: black;
-  font-variant-caps: small-caps;
-    }
+h3 {
+  font-style: italic;
+}
+
+h2 {
+  margin-left: 0.5em;
+  
+}
+.box  {   
+    border: 1px  
+    margin: 0.5em;
+    display:flex;
+    flex-wrap: wrap;
+  }
+
+  .responsive {
+    width: 70%;
+    margin-left: auto;
+    margin-right: auto;
+    height: auto;
+  }
+
+  .disclosure  {
+    color: #4a5666;
+    font-size: 18px;
+    letter-spacing: .35px;
+    margin-bottom: 10px;
+    background: #f5f6f7;
+    border: 1px solid #b4bdc9;
+    padding: 0.5em;
+    border-radius: 11px;
+  }
